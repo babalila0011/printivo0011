@@ -1,0 +1,404 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+.nav1{
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(80, 120, 131);
+}
+.NUM{
+    /* justify-self: normal; */
+}
+.num{
+    color: rgb(21, 161, 242);
+}
+.tag{
+    border: 2px solid;
+    border-radius: 1.5rem;
+    height: 3rem;
+    padding-right: 10px;
+    margin-right: 60px;
+}
+.Nija{
+    /* border: 2px solid; */
+    /* border-radius: 20px; */
+    /* width: 8rem; */
+    /* height: 2rem; */
+    text-align: center;
+    font-size: 14px;
+    margin-left: 50px;
+    
+    
+}
+.ul1{
+
+    justify-content: space-between;
+    list-style: none;
+    display: flex;
+    gap: 3rem;
+    margin-left: 20px;
+}
+.tag2{
+    background-color: rgb(236, 232, 217);
+    width: 100%;
+    height: 38rem;
+    font-size: 17px;
+    margin-top: 15px;
+    background-image: url(/Multimedia/val-banner_bk99je.png);
+    background-size: cover;
+}
+.pic{
+    margin-left: 3.5rem;
+    padding-top: 2rem;
+}
+.pic2{
+    position: absolute;
+    margin-left: 66.5rem;
+    padding-top: 8rem;
+}
+.nav2{
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(56,74,98);
+}
+.ul2{
+    justify-content: space-between;
+    list-style: none;
+    display: flex;
+    gap: 3rem;
+    margin-left: 31rem;
+    margin-top: -2rem;
+}
+.ul3{
+    /* justify-content: space-between; */
+    list-style: none;
+    display: flex;
+    gap: 3rem;
+    margin-right: 10rem;
+    margin-top: -2rem;
+}
+.sign{
+    color: rgb(215,127,129);
+}
+.Quality{
+    font-family: 'DM Serif Display', serif;
+    margin-left: 3.5rem;
+    font-size: 77px;
+    color: rgb(56,74,98);
+    margin-top: 7rem;
+    font-stretch: 100%;
+    font-weight: 400;
+    line-height: 40px;
+}
+.door{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 3.5rem;
+    margin-top: -2rem;
+    font-weight: 600;
+    font-size: 25px;
+    font-stretch: 100%;
+    line-height: 32px;
+    color: rgb(112,128,149);
+}
+.what{
+    margin-left: 3.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(56,74,98);
+    font-size: 17px;
+    margin-top: 3.5rem;
+}
+.type{
+    margin-left: 3.5rem;
+    width: 43rem;
+    height: 90px;
+    border-radius: 5px;
+    border: none;
+    font-size: 18px;
+    padding-left: 20px;
+}
+.nav3{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 3.5rem;
+    gap: 200px;
+}
+.pop{
+    font-family: 'DM Serif Display', serif;
+    margin-top: 4rem;
+    font-size: 33px;
+    color: rgb(56,74,98);
+}
+.see{
+    color: rgb(215,127,129);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 4rem;
+    margin-right: 4rem;
+}
+.parent{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 3.5rem;
+    margin-top: -50px;
+    padding-left: 3.5rem;
+    flex-wrap: wrap;
+    /* border: 2px solid black; */
+    gap: 7px;
+}
+
+.card{
+    margin-top: 3rem;
+    border:  2px solid black;
+    border-radius: 4px;
+    box-shadow: 3px 4px 2px slategray;
+    height: 33rem;
+    width: 21rem;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+}
+.p1{
+    font-size: 22px;
+    margin-left: 18px;
+    color: rgb(56,74,98);
+    font-weight: bold;
+}
+.p2{
+    font-size: 18px;
+    margin-left: 18px;
+    color: rgb(112, 128, 149);
+    font-weight: bold;
+}
+.p3{
+    font-size: 25px;
+    margin-left: 18px;
+    color: rgb(56,74,98);
+    font-weight: bold;
+}
+.p4{
+    font-size: 20px;
+    color: rgb(112, 128, 149);
+}
+.p5{
+    margin-left: 18px;
+    font-size: 20px;
+    width: 17.5rem;
+    height: 45px;
+    background-color: rgb(215,127,129);
+    border-radius: 4px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+.fa-solid{
+    color: white;
+    margin-left:-50px;
+    margin-top: 16px;
+    position: absolute;
+}
+.New{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    margin-top: 10rem;
+    
+}
+.AA{
+    display: flex;
+    margin-right: 3.5rem;
+    margin-top: -50px;
+    padding-left: 3.5rem;
+    flex-wrap: wrap;
+    /* border: 2px solid black; */
+    gap: 35px;
+}
+.country{
+    font-family: 'DM Serif Display', serif;
+    font-size: 40px;
+    margin-top: 7rem;
+    margin-left: 3.5rem;
+    width: 50rem;
+    color: rgb(56,74,98);
+}
+.word{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(80, 120, 131);
+    margin-top: -30px;
+}
+.IMG:hover{
+    transform: scale(1.025);
+}
+.IMG2{
+    margin-left: 3.5rem;
+    width: 90%;
+}
+.main{
+    width: 100%;
+    height: 25rem;
+    background-color: rgb(237,246,253);
+    margin-top: 3rem;
+}
+.what{
+    font-family: 'DM Serif Display', serif;
+    font-size: 34px;
+    word-spacing: 4px;
+    font-weight: lighter;
+    padding-top: 3rem;
+}
+.tweet{
+    width: 82rem;
+    height: 25rem;
+    /* border: 5px solid black; */
+    /* margin-left: 3.5rem; */
+    display: flex;
+    justify-content: space-between;
+    gap: 10rem;
+}
+.tweet1{
+    width: 29rem;
+    height: 12rem;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 3.5rem;
+    margin-right: -12rem;  
+    padding-right: 1rem;
+    border-radius: 5px;
+
+}
+.child-t2{
+    padding-left: 6rem;
+}
+.span1{
+    color: rgb(29,161,242);
+}
+.child-t1{
+    font-weight: bold;
+    padding-left: 6rem;
+}
+.fa-brands{
+    position: absolute;
+    margin-top: -10rem;
+    margin-left: 1.5rem;
+    border: 2px solid black;
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    /* justify-items: center; */
+}
+.pic3{
+    margin-top: -8rem;
+    position: absolute;
+}
+.what2{
+    font-family: 'DM Serif Display', serif;
+    font-size: 34px;
+    word-spacing: 4px;
+    font-weight: lighter;
+    margin-top: -1rem;
+    margin-left: 3.5rem;
+    position: absolute;
+    color: rgb(56,74,98);
+
+}
+.work{
+    width: 100%;
+    height: 15rem;
+    background-color: rgb(247,246,244);
+    margin-top: -7rem;
+    padding-top: 8rem;
+    display: flex;
+    gap: 5.5rem;
+    padding-left: 3.5rem;
+
+}
+.read{
+    font-size: 20px;
+    color: rgb(56,74,98);
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    display: flex;
+    /* gap: 5rem; */
+    justify-content: space-between;
+    margin-top: 8rem;
+}
+.pic4{
+    width: 13rem;
+    height: 6.5rem;
+    position: absolute;
+    margin-left: 3.5rem;
+    margin-top: -12.5rem;
+}
+.pic5{
+    width: 8rem;
+    height: 5rem;
+    position: absolute;
+    margin-left: 20.5rem;
+    margin-top: -11.5rem;
+
+}
+.pic6{
+    width: 9rem;
+    height: 2rem;
+    position: absolute;
+    margin-left: 3.5rem;
+    margin-left: 37.5rem;
+    margin-top: -10rem;
+}
+.pic7{
+    width: 12rem;
+    height: 9rem;
+    position: absolute;
+    margin-left: 3.5rem;
+    margin-left: 55rem;
+    margin-top: -13.5rem;
+}
+.pic8{
+    width: 5rem;
+    height: 5rem;
+    position: absolute;
+    margin-left: 3.5rem;
+    margin-left: 72rem;
+    margin-top: -11.5rem;
+}
+.last{
+    width: 100%;
+    height: 30rem;
+    background-color: rgb(56,74,98);
+    display: flex;
+    /* justify-content: space-between; */
+    
+}
+.blast{
+    width: 20rem;
+    height: 10rem;
+    /* background-color: azure; */
+}
+.CL1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    margin-left: 3.5rem;
+    font-weight: bold;
+    color: rgb(236, 232, 217);
+    margin-top: 5rem;
+}
+.UL6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-left: 1rem;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    list-style: none;
+    line-height: 2rem;
+}
+
+
+
